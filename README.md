@@ -1,1 +1,0 @@
-# bytbot-main
